@@ -1,5 +1,5 @@
 #!/bash/sh
-PLUGINS_DIR=~/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins/
+PLUGINS_DIR=~/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins
 
 ## Sketch 插件的 Github 仓库列表
 PLUGINS_URL=(
@@ -34,7 +34,7 @@ done
 
 echo "===================================================="
 echo "FINISH Installation. INSTALLED LIST:"
-for plugin_url in $PLUGINS_URL
+for plugin_url in ${PLUGINS_URL[@]}
 do
   echo "  $plugin_url"
 done
