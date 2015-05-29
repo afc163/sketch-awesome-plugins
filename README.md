@@ -15,24 +15,31 @@ curl -L https://raw.github.com/afc163/sketch-awosome-plugins/master/install.sh |
 #### Clear styles 
 
 [This plugin](https://github.com/nathco/Clear-Styles) for clearing all layer style properties. Selected layers will reset to the default style properties defined by the user. Works with text and shape layers.
-这个插件可以帮助你快速清除所有附加在图层或者文字上面的样式
+
+快速清除所有附加在图层或者文字上面的样式。
 
 ##### 快捷键
+
 - Option + Command + /
 
 #### Swap-Fill-Border
 [This plugin](https://github.com/nathco/Swap-Fill-Border) for swapping the fill and 
 border color for all selected layers. Works with gradients and solid filled objects
-这个插件可以帮助你快速替换层里面的填充和边框的颜色
+
+快速替换层里面的填充和边框的颜色。
 
 ##### 快捷键
+
 - Command + /
 
 #### Sketch-page-switch
 
-A dummy [plugin](https://github.com/mauehara/sketch-page-switch) to quickly switch between pages using shortcuts. 这个插件可以帮助你快速创建页面和切换之间的切换
+A dummy [plugin](https://github.com/mauehara/sketch-page-switch) to quickly switch between pages using shortcuts. 
+
+快速创建页面和进行页面切换。
 
 ##### 快捷键
+
 - cmd + l will go to the next page
 - cmd + k will go to the previous page
 - cmd + ' will prompt to select a page
@@ -40,8 +47,9 @@ A dummy [plugin](https://github.com/mauehara/sketch-page-switch) to quickly swit
 
 #### Sketch-page-switch
 
-The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it fast and easy to draw flowcharts in Sketch. 这是一个帮助你快速创建流程图的插件
+The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it fast and easy to draw flowcharts in Sketch. 
 
+快速创建流程图的插件。
 
 #### Content-generator-sketch-plugin
 
@@ -50,7 +58,9 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 
 #### Sketch-measure
 
-[A measure tool](https://github.com/utom/sketch-measure) for measurements & design specs.这是一个标注插件，国人开发~
+[A measure tool](https://github.com/utom/sketch-measure) for measurements & design specs.
+
+这是一个标注插件，国人开发。
 
 ##### 快捷键
 - Sizes: ⌃ + ⌘ + 1
@@ -63,11 +73,15 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 
 #### Sketch-subtlepatterns
 
-[This plugin](https://github.com/dunckr/sketch-subtlepatterns)  import [Subtle Patterns](https://github.com/subtlepatterns/SubtlePatterns) as shape fills in Sketch.这个插件可以导入Subtle Patterns的底纹
+[This plugin](https://github.com/dunckr/sketch-subtlepatterns)  import [Subtle Patterns](https://github.com/subtlepatterns/SubtlePatterns) as shape fills in Sketch.
+
+可以导入 Subtle Patterns 的底纹。
 
 #### Sketch-guides
 
-[This plugin](https://github.com/petehouston/sketch-guides) help you do something with guide.这是一个参考线工具，实现参考线增加，全部删除
+[This plugin](https://github.com/petehouston/sketch-guides) help you do something with guide.
+
+一个参考线工具，实现参考线增加，全部删除。
 
 ##### 快捷键
 - Control + Shift + G : to lauch the guide adding input.
@@ -79,5 +93,5 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 #### SketchDistributor
 
 [Sketch plugin](https://github.com/PEZ/SketchDistributor) that distributes selected objects vertically or horizontally with a specified spacing.
-这个插件可以帮助你快速整理元素，设置他之间间距为多少。
 
+快速整理元素，设置元素间距。
