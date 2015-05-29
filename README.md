@@ -4,7 +4,7 @@
 
 ## 一键安装
 
-打开`终端`（Finder - Application - 实用工具 - 终端），在里面运行下面的命令。
+打开`终端`（Finder - Application - 实用工具 - 终端），在里面粘贴下面的命令并回车运行。
 
 ```bash
 curl -L https://raw.github.com/afc163/sketch-awosome-plugins/master/install.sh | sh
