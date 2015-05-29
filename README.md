@@ -72,7 +72,7 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 - Toggle All Measure Hidden <kbd>Control</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
 - Clear All Measure
 
-#### Sketch-subtlepatterns(包文件过大，请自行安装)
+#### Sketch-subtlepatterns（包文件过大，请自行安装）
 
 [This plugin](https://github.com/dunckr/sketch-subtlepatterns)  import [Subtle Patterns](https://github.com/subtlepatterns/SubtlePatterns) as shape fills in Sketch.
 
@@ -85,17 +85,11 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 一个参考线工具，实现参考线增加，全部删除。
 
 ##### 快捷键
-<<<<<<< HEAD
-- Control + Shift + G : to lauch the guide adding input.
-- Control + Shift + H : to add a horizontal guide.
-- DControl + Shift + V : to add a vertical guide.
-- Control + Shift + R : to remove all guides on current page or current atboard.
-=======
+
 - <kbd>Control</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd> : to lauch the guide adding input.
 - <kbd>Control</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd> : to add a horizontal guide.
 - <kbd>Control</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd> : to add a vertical guide.
 - <kbd>Control</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> : to remove all guides on current page or current artboard.
->>>>>>> a36a10af92371e7af7465775f4e5330cd1651b87
 
 
 #### SketchDistributor
