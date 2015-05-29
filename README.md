@@ -65,7 +65,7 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 
 [This plugin](https://github.com/dunckr/sketch-subtlepatterns)  import [Subtle Patterns](https://github.com/subtlepatterns/SubtlePatterns) as shape fills in Sketch.这个插件可以导入Subtle Patterns的底纹
 
-##### Sketch-guides
+#### Sketch-guides
 
 [This plugin](https://github.com/petehouston/sketch-guides) help you do something with guide.这是一个参考线工具，实现参考线增加，全部删除
 
@@ -76,8 +76,8 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 - Control + Shift + R : to remove all guides on current page or current artboard.
 
 
-##### SketchDistributor
+#### SketchDistributor
 
 [Sketch plugin](https://github.com/PEZ/SketchDistributor) that distributes selected objects vertically or horizontally with a specified spacing.
-这个插件可以帮助你快速整理元素，设置他们之间间距为多少。
+这个插件可以帮助你快速整理元素，设置他之间间距为多少。
 
