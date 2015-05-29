@@ -5,7 +5,7 @@ PLUGINS_URL=(
 )
 
 echo "==================================="
-echo "START Installation"
+echo "Start Installation"
 echo "==================================="
 echo ""
 
@@ -21,7 +21,7 @@ do
 done
 
 echo "==================================="
-echo "FINISH Installation"
+echo "Finish Installation"
 for plugin_url in $PLUGINS_URL
 do
   plugin_url="https://codeload.github.com/${plugin_url}/zip/master"
