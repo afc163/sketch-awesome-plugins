@@ -23,6 +23,7 @@ curl -L https://raw.github.com/afc163/sketch-awosome-plugins/master/install.sh |
 - Option + Command + /
 
 #### Swap-Fill-Border
+
 [This plugin](https://github.com/nathco/Swap-Fill-Border) for swapping the fill and 
 border color for all selected layers. Works with gradients and solid filled objects
 
