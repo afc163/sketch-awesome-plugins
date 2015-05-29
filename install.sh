@@ -21,10 +21,9 @@ for plugin_url in ${PLUGINS_URL[@]}
 done
 
 echo "===================================================="
-echo "FINISH Installation"
+echo "FINISH Installation. INSTALLED LIST:"
 for plugin_url in $PLUGINS_URL
 do
-  echo "INSTALLED LIST:"
   echo "  $plugin_url"
 done
 echo "===================================================="
