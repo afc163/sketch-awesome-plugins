@@ -6,12 +6,10 @@ PLUGINS_URL=(
   "nathco/Clear-Styles"
   "petehouston/sketch-guides"
   "nathco/Swap-Fill-Border"
-  "petehouston/sketch-guides"
   "mauehara/sketch-page-switch"
   "tadija/AEFlowchart"
   "utom/sketch-measure"
   "PEZ/SketchDistributor"
-
 )
 
 echo "===================================================="
