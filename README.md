@@ -51,7 +51,7 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 
 快速创建流程图的插件。
 
-#### Content-generator-sketch-plugin
+#### Content-generator-sketch-plugin（包文件过大，请自行安装）
 
 [Sketch generator](https://github.com/timuric/Content-generator-sketch-plugin) allows you quickly create dummy data such as avatars, names, geo location data etc.这是一个帮助你创建头像，姓名等数据的插件
 
@@ -71,7 +71,7 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 - Toggle All Measure Hidden Ctrl+Shift+H
 - Clear All Measure
 
-#### Sketch-subtlepatterns
+#### Sketch-subtlepatterns(包文件过大，请自行安装)
 
 [This plugin](https://github.com/dunckr/sketch-subtlepatterns)  import [Subtle Patterns](https://github.com/subtlepatterns/SubtlePatterns) as shape fills in Sketch.
 
@@ -87,7 +87,7 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 - Control + Shift + G : to lauch the guide adding input.
 - Control + Shift + H : to add a horizontal guide.
 - DControl + Shift + V : to add a vertical guide.
-- Control + Shift + R : to remove all guides on current page or current artboard.
+- Control + Shift + R : to remove all guides on current page or current atboard.
 
 
 #### SketchDistributor

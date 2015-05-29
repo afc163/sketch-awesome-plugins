@@ -3,6 +3,13 @@ PLUGINS_DIR=~/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins/
 PLUGINS_URL=(
   "nathco/Clear-Styles"
   "petehouston/sketch-guides"
+  "nathco/Swap-Fill-Border"
+  "petehouston/sketch-guides"
+  "mauehara/sketch-page-switch"
+  "tadija/AEFlowchart"
+  "utom/sketch-measure"
+  "PEZ/SketchDistributor"
+
 )
 
 echo "===================================================="
