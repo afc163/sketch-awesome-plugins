@@ -5,15 +5,9 @@ PLUGINS_URL=(
   "petehouston/sketch-guides"
 )
 
-<<<<<<< HEAD
-echo "==================================="
-echo "Start Installation"
-echo "==================================="
-=======
 echo "===================================================="
 echo "START Installation"
 echo "===================================================="
->>>>>>> 3755ce11fdef1c5c98229efda27130101dc4b56c
 echo ""
 
 for plugin_url in ${PLUGINS_URL[@]}
@@ -29,13 +23,8 @@ for plugin_url in ${PLUGINS_URL[@]}
     echo ""
 done
 
-<<<<<<< HEAD
-echo "==================================="
-echo "Finish Installation"
-=======
 echo "===================================================="
 echo "FINISH Installation. INSTALLED LIST:"
->>>>>>> 3755ce11fdef1c5c98229efda27130101dc4b56c
 for plugin_url in $PLUGINS_URL
 do
   echo "  $plugin_url"
