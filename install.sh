@@ -36,4 +36,5 @@ for plugin_url in ${PLUGINS_URL[@]}
 do
   echo "  $plugin_url"
 done
+echo "😀😀😀😀😀😀"
 echo "===================================================="
