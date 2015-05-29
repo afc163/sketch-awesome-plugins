@@ -10,6 +10,8 @@
 curl -L https://raw.githubusercontent.com/afc163/sketch-awosome-plugins/master/install.sh | sh
 ```
 
+![](https://t.alipayobjects.com/images/T1SD4fXkXrXXXXXXXX.png)
+
 ## 插件
 
 #### Clear styles 
