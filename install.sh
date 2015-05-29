@@ -1,5 +1,5 @@
 #!/bash/sh
-PLUGINS_DIR=~/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins/
+PLUGINS_DIR=~/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins
 
 ## Sketch 插件的 Github 仓库列表
 PLUGINS_URL=(
