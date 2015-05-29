@@ -17,18 +17,18 @@
                                 <ellipse id="Oval-1" fill="#F87C68" cx="4.08704079" cy="5.87712501" rx="4.08704079" ry="4.04379168"></ellipse>
                             </g>
                             <text id="打开终端（Finder---Applic" sketch:type="MSTextLayer" font-family="FZHei-B01S" font-size="10" font-weight="normal" line-spacing="13" fill="#AAAAAA">
-                                <tspan x="11" y="90">打开终端（Finder - Application - 实用工具 - 终端）</tspan>
-                                <tspan x="11" y="104">在里面粘贴下面的命令并回车运行</tspan>
+                                <tspan x="11" y="98">打开终端（Finder - Application - 实用工具 - 终端）</tspan>
+                                <tspan x="11" y="112">在里面粘贴下面的命令并回车运行</tspan>
                             </text>
                         </g>
                     </g>
-                    <g id="Rectangle-2-+-Rectangle-2-Copy-2" transform="translate(12.000000, 63.000000)" fill="#807F7F" sketch:type="MSShapeGroup">
+                    <g id="Rectangle-2-+-Rectangle-2-Copy-2" transform="translate(12.000000, 70.000000)" fill="#807F7F" sketch:type="MSShapeGroup">
                         <path d="M3.80196138,5.35452354 L0.517113472,8.63937145 L1.61206277,9.73432075 L5.44438533,5.90199819 L5.99185998,5.35452354 L1.61206277,0.974726332 L0.517113472,2.06967563 L3.80196138,5.35452354 Z" id="Rectangle-2"></path>
                     </g>
-                    <rect id="Rectangle-4" fill="#807F7F" sketch:type="MSShapeGroup" x="20" y="70" width="7" height="2"></rect>
+                    <rect id="Rectangle-4" fill="#807F7F" sketch:type="MSShapeGroup" x="20" y="77" width="7" height="2"></rect>
                 </g>
-                <text id="afc163-&amp;-CaiCai" sketch:type="MSTextLayer" font-family="FZHei-B01S" font-size="10" font-weight="normal" fill="#979C9D">
-                    <tspan x="12" y="226">afc163 &amp; CaiCai</tspan>
+                <text id="afc163-&amp;-CaiCai" sketch:type="MSTextLayer" font-family="FZHei-B01S" font-size="8" font-weight="normal" fill="#979C9D">
+                    <tspan x="11" y="225">afc163 &amp; CaiCai</tspan>
                 </text>
             </g>
         </g>

@@ -52,6 +52,12 @@ p{
   text-align: center;
   padding-top: 100px;
 }
+.header a{
+  color: #70C19A;
+}
+.header a:hover{
+  color: #64AB89;
+}
 .header h2{
   font-size: 50px;
   padding-top: 50px;
@@ -74,7 +80,7 @@ p{
 }
 .footer p{
   position: absolute;
-  top: 480px;
+  top: 490px;
   color: #70C19A;
   padding-left: 20px;
   font-size: 13px;
