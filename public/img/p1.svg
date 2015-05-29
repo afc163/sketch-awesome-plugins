@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="446px" height="243px" viewBox="0 0 446 243" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Group + curl -L https://raw. + Rectangle 2 + Rectangle 2 Copy 2 + afc163 &amp; CaiCai + Rectangle 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Group-+-curl--L-https://raw.-+-Rectangle-2-+-Rectangle-2-Copy-2-+-afc163-&amp;-CaiCai-+-Rectangle-4" sketch:type="MSLayerGroup">
+            <g id="Group-+-curl--L-https://raw.-+-Rectangle-2-+-Rectangle-2-Copy-2-+-afc163-&amp;-CaiCai">
+                <g id="Group-+-curl--L-https://raw.-+-Rectangle-2-+-Rectangle-2-Copy-2">
+                    <g id="Group-+-curl--L-https://raw.">
+                        <g id="Group">
+                            <rect id="Rectangle-1" stroke="#E5E5E5" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="446" height="243" rx="8"></rect>
+                            <g id="Oval-2-+-Oval-1-Copy-+-Oval-1" transform="translate(11.000000, 9.000000)" sketch:type="MSShapeGroup">
+                                <ellipse id="Oval-2" fill="#9DCF7C" cx="30.0517705" cy="6.11499511" rx="4.08704079" ry="4.04379168"></ellipse>
+                                <ellipse id="Oval-1-Copy" fill="#F3CF7F" cx="17.0694057" cy="5.87712501" rx="4.08704079" ry="4.04379168"></ellipse>
+                                <ellipse id="Oval-1" fill="#F87C68" cx="4.08704079" cy="5.87712501" rx="4.08704079" ry="4.04379168"></ellipse>
+                            </g>
+                            <text id="打开终端（Finder---Applic" sketch:type="MSTextLayer" font-family="FZHei-B01S" font-size="10" font-weight="normal" line-spacing="13" fill="#AAAAAA">
+                                <tspan x="11" y="90">打开终端（Finder - Application - 实用工具 - 终端）</tspan>
+                                <tspan x="11" y="104">在里面粘贴下面的命令并回车运行</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Rectangle-2-+-Rectangle-2-Copy-2" transform="translate(12.000000, 63.000000)" fill="#807F7F" sketch:type="MSShapeGroup">
+                        <path d="M3.80196138,5.35452354 L0.517113472,8.63937145 L1.61206277,9.73432075 L5.44438533,5.90199819 L5.99185998,5.35452354 L1.61206277,0.974726332 L0.517113472,2.06967563 L3.80196138,5.35452354 Z" id="Rectangle-2"></path>
+                    </g>
+                    <rect id="Rectangle-4" fill="#807F7F" sketch:type="MSShapeGroup" x="20" y="70" width="7" height="2"></rect>
+                </g>
+                <text id="afc163-&amp;-CaiCai" sketch:type="MSTextLayer" font-family="FZHei-B01S" font-size="10" font-weight="normal" fill="#979C9D">
+                    <tspan x="12" y="226">afc163 &amp; CaiCai</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
