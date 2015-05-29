@@ -12,10 +12,13 @@ echo ""
 
 for plugin_url in ${PLUGINS_URL[@]}
   do
+    plugin_name=${plugin_url#*/}
+    plugin_name=${plugin_name/-/ }
+    echo $plugin_name
     plugin_url="https://codeload.github.com/${plugin_url}/zip/master"
     echo "DOWNLOAD $plugin_url"
     curl -o  temp.zip $plugin_url
-    unzip -o temp.zip -d "${PLUGINS_DIR}"
+    unzip -oj temp.zip -d "${PLUGINS_DIR}/${plugin_name}"
     rm temp.zip
     echo ""
 done
