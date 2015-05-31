@@ -66,12 +66,13 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 这是一个标注插件，国人开发。
 
 ##### 快捷键
+
 - Sizes: <kbd>⌃</kbd> + <kbd>⌘</kbd> + <kbd>1</kbd>
 - Margin or Padding: <kbd>⌃</kbd> + <kbd>⌘</kbd>+ <kbd>2</kbd>
 - Distances: <kbd>⌃</kbd> + <kbd>⌘</kbd> + <kbd>3</kbd>
 - Properties: <kbd>⌃</kbd> + <kbd>⌘</kbd> + <kbd>4</kbd>
 - Coordinates: <kbd>⌃</kbd> + <kbd>⌘</kbd> + <kbd>5</kbd>
-- Toggle All Measure Hidden <kbd>control</kbd> + <kbd>shift</kbd> + <kbd>H</kbd>
+- Toggle All Measure Hidden <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>H</kbd>
 - Clear All Measure
 
 #### Sketch-subtlepatterns（包文件过大，请自行安装）
