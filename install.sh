@@ -10,7 +10,7 @@ PLUGINS=(
   "tadija/AEFlowchart,流程图"
   "utom/sketch-measure,快速标注"
   "PEZ/SketchDistributor,排列元素"
-  "ed-lea/easyshare.sketchplugin,快速分享画板"
+  "afc163/easyshare.sketchplugin,快速分享画板"
 )
 
 echo "===================================================="
@@ -22,15 +22,18 @@ for plugin in ${PLUGINS[@]}
   do
     ## 拿到 url
     plugin_url=${plugin%,*}
-    plugin_url="https://codeload.github.com/${plugin_url}/zip/master"
+    plugin_full_url="https://codeload.github.com/${plugin_url}/zip/master"
     ## 拿到插件名称
     plugin_name=${plugin#*/}
     plugin_name=$(echo $plugin_name | sed "s/\,/ /g")
 
     echo "DOWNLOAD $plugin_name"
-    echo "  from $plugin_url"
-    curl -o temp.zip $plugin_url
-    unzip -oj temp.zip -d "${PLUGINS_DIR}/${plugin_name}"
+    echo "  from $plugin_full_url"
+    curl -o temp.zip $plugin_full_url
+    unzip -o temp.zip -d "${PLUGINS_DIR}"
+    plugin_repo_name=${plugin_url#*/}
+    echo "mv ${PLUGINS_DIR}/${plugin_repo_name}-master ${PLUGINS_DIR}/${plugin_name}"
+    mv "${PLUGINS_DIR}/${plugin_repo_name}-master" "${PLUGINS_DIR}/${plugin_name}"``
     rm temp.zip
     echo ""
 done
