@@ -100,3 +100,11 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 [Sketch plugin](https://github.com/PEZ/SketchDistributor) that distributes selected objects vertically or horizontally with a specified spacing.
 
 快速整理元素，设置元素间距。
+
+#### Easy Share
+
+[Easy Share Plugin for Sketch](https://github.com/ed-lea/easyshare.sketchplugin)
+
+快速上传画板，生成在线链接，方便分享。
+
+快捷键：<kbd>option</kbd> + <kbd>command</kbd> + <kbd>e</kbd>

@@ -10,6 +10,7 @@ PLUGINS=(
   "tadija/AEFlowchart,流程图"
   "utom/sketch-measure,快速标注"
   "PEZ/SketchDistributor,排列元素"
+  "ed-lea/easyshare.sketchplugin,快速分享画板"
 )
 
 echo "===================================================="
