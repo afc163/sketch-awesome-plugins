@@ -20,7 +20,7 @@ echo ""
 for plugin_url in ${PLUGINS_URL[@]}
   do
     plugin_name=${plugin_url#*/}
-    plugin_name=${plugin_name/-/ }
+    plugin_name=$(echo $plugin_name | sed "s/\-/ /g")
     echo $plugin_name
     plugin_url="https://codeload.github.com/${plugin_url}/zip/master"
     echo "DOWNLOAD $plugin_url"
