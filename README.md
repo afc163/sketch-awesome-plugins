@@ -22,7 +22,7 @@ curl -L https://raw.githubusercontent.com/afc163/sketch-awesome-plugins/master/i
 
 ##### 快捷键
 
-- <kbd>Option</kbd> + <kbd>Command</kbd> + <kbd>/</kbd>
+- <kbd>option</kbd> + <kbd>command</kbd> + <kbd>/</kbd>
 
 #### Swap-Fill-Border
 
@@ -33,7 +33,7 @@ border color for all selected layers. Works with gradients and solid filled obje
 
 ##### 快捷键
 
-- <kbd>Command</kbd> + <kbd>/</kbd>
+- <kbd>command</kbd> + <kbd>/</kbd>
 
 #### Sketch-page-switch
 
@@ -43,10 +43,10 @@ A dummy [plugin](https://github.com/mauehara/sketch-page-switch) to quickly swit
 
 ##### 快捷键
 
-- <kbd>Command</kbd> + <kbd>l</kbd> will go to the next page
-- <kbd>Command</kbd> + <kbd>k</kbd> will go to the previous page
-- <kbd>Command</kbd> + <kbd>'</kbd> will prompt to select a page
-- <kbd>Command</kbd> + <kbd>p</kbd> will create a new page
+- <kbd>command</kbd> + <kbd>l</kbd> will go to the next page
+- <kbd>command</kbd> + <kbd>k</kbd> will go to the previous page
+- <kbd>command</kbd> + <kbd>'</kbd> will prompt to select a page
+- <kbd>command</kbd> + <kbd>p</kbd> will create a new page
 
 #### Sketch-page-switch
 
@@ -71,7 +71,7 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 - Distances: <kbd>⌃</kbd> + <kbd>⌘</kbd> + <kbd>3</kbd>
 - Properties: <kbd>⌃</kbd> + <kbd>⌘</kbd> + <kbd>4</kbd>
 - Coordinates: <kbd>⌃</kbd> + <kbd>⌘</kbd> + <kbd>5</kbd>
-- Toggle All Measure Hidden <kbd>Control</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
+- Toggle All Measure Hidden <kbd>control</kbd> + <kbd>shift</kbd> + <kbd>H</kbd>
 - Clear All Measure
 
 #### Sketch-subtlepatterns（包文件过大，请自行安装）
@@ -88,10 +88,10 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 
 ##### 快捷键
 
-- <kbd>Control</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd> : to lauch the guide adding input.
-- <kbd>Control</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd> : to add a horizontal guide.
-- <kbd>Control</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd> : to add a vertical guide.
-- <kbd>Control</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> : to remove all guides on current page or current artboard.
+- <kbd>control</kbd> + <kbd>shift</kbd> + <kbd>g</kbd> : to lauch the guide adding input.
+- <kbd>control</kbd> + <kbd>shift</kbd> + <kbd>h</kbd> : to add a horizontal guide.
+- <kbd>control</kbd> + <kbd>shift</kbd> + <kbd>v</kbd> : to add a vertical guide.
+- <kbd>control</kbd> + <kbd>shift</kbd> + <kbd>r</kbd> : to remove all guides on current page or current artboard.
 
 
 #### SketchDistributor
