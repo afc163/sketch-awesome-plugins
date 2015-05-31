@@ -48,7 +48,7 @@ A dummy [plugin](https://github.com/mauehara/sketch-page-switch) to quickly swit
 - <kbd>command</kbd> + <kbd>'</kbd> will prompt to select a page
 - <kbd>command</kbd> + <kbd>p</kbd> will create a new page
 
-#### Sketch-page-switch
+#### AEFlowchart
 
 The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it fast and easy to draw flowcharts in Sketch. 
 
