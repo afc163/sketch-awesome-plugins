@@ -43,10 +43,10 @@ A dummy [plugin](https://github.com/mauehara/sketch-page-switch) to quickly swit
 
 ##### 快捷键
 
-- <kbd>cmd</kbd> + <kbd>l</kbd> will go to the next page
-- <kbd>cmd</kbd> + <kbd>k</kbd> will go to the previous page
-- <kbd>cmd</kbd> + <kbd>'</kbd> will prompt to select a page
-- <kbd>cmd</kbd> + <kbd>p</kbd> will create a new page
+- <kbd>Command</kbd> + <kbd>l</kbd> will go to the next page
+- <kbd>Command</kbd> + <kbd>k</kbd> will go to the previous page
+- <kbd>Command</kbd> + <kbd>'</kbd> will prompt to select a page
+- <kbd>Command</kbd> + <kbd>p</kbd> will create a new page
 
 #### Sketch-page-switch
 
