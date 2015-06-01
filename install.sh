@@ -31,8 +31,11 @@ for plugin in ${PLUGINS[@]}
     curl -o temp.zip $plugin_full_url
     unzip -o temp.zip -d "${PLUGINS_DIR}"
     plugin_repo_name=${plugin_url#*/}
-    echo "mv ${PLUGINS_DIR}/${plugin_repo_name}-master ${PLUGINS_DIR}/${plugin_name}"
-    mv "${PLUGINS_DIR}/${plugin_repo_name}-master" "${PLUGINS_DIR}/${plugin_name}"``
+    if  [ -d "${PLUGINS_DIR}/${plugin_name}" ]
+      then
+        rm -rf "${PLUGINS_DIR}/${plugin_name}"
+    fi
+    mv "${PLUGINS_DIR}/${plugin_repo_name}-master" "${PLUGINS_DIR}/${plugin_name}"
     rm temp.zip
     echo ""
 done
