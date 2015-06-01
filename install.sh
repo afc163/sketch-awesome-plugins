@@ -1,6 +1,12 @@
 #!/bash/sh
-PLUGINS_DIR=~/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins
+
+## beta version
 PLUGINS_DIR=~/Library/Containers/com.bohemiancoding.sketch3.beta/Data/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins
+if  [ -d "${PLUGINS_DIR}" ]
+  then
+    PLUGINS_DIR=~/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins
+fi
+
 ## Sketch 插件的 Github 仓库列表
 PLUGINS=(
   "nathco/Clear-Styles,清除样式"
