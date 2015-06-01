@@ -2,7 +2,7 @@
 
 ## beta version
 PLUGINS_DIR=~/Library/Containers/com.bohemiancoding.sketch3.beta/Data/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins
-if  [ -d "${PLUGINS_DIR}" ]
+if [ ! -d "${PLUGINS_DIR}" ]
   then
     PLUGINS_DIR=~/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins
 fi
