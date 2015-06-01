@@ -105,3 +105,14 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 
 快速整理元素，设置元素间距。
 
+#### Artboard-Tools
+
+[This plugin](https://github.com/frankko/Artboard-Tools) for arranging artboards and navigating between artboards.
+这个插件可以帮助你整理面板，以及面板之间快速切换
+
+
+#### Modulizer
+
+[Modulizer](https://github.com/Falkeyn/Modulizer) plug-in for Sketch.app allows you easy control paddings for buttons, modules and areas. If your module has background your can set fixed paddings and easy restore it for any content changes
+一个可以帮助你快速设定图层与元素间距的工具
+

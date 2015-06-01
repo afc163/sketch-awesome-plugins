@@ -5,11 +5,13 @@ PLUGINS_DIR=~/Library/Containers/com.bohemiancoding.sketch3.beta/Data/Library/Ap
 PLUGINS=(
   "nathco/Clear-Styles,清除样式"
   "petehouston/sketch-guides,参考线"
-  "nathco/Swap-Fill-Border,清除样式"
+  "nathco/Swap-Fill-Border,图层和边框样式对换"
   "mauehara/sketch-page-switch,页面切换"
   "tadija/AEFlowchart,流程图"
-  "utom/sketch-measure,快速标注"
+  "utom/sketch-measure,标注工具"
   "PEZ/SketchDistributor,排列元素"
+  "frankko/Artboard-Tools,面板工具"
+  "Falkeyn/Modulizer,图层间距工具"
 )
 
 echo "===================================================="
