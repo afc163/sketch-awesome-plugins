@@ -12,6 +12,10 @@ curl -L https://raw.githubusercontent.com/afc163/sketch-awesome-plugins/master/i
 
 ![](https://t.alipayobjects.com/images/T1SD4fXkXrXXXXXXXX.png)
 
+## 说明
+
+新更新版本，加入插件中文，所以安装第一版本的童鞋，会出现重复的插件，全部删除，重新安装一遍即可～
+
 ## 插件
 
 #### Clear styles 
@@ -101,10 +105,3 @@ The idea of this [plugin](https://github.com/tadija/AEFlowchart) is to make it f
 
 快速整理元素，设置元素间距。
 
-#### Easy Share
-
-[Easy Share Plugin for Sketch](https://github.com/ed-lea/easyshare.sketchplugin)
-
-快速上传画板，生成在线链接，方便分享。
-
-快捷键：<kbd>option</kbd> + <kbd>command</kbd> + <kbd>e</kbd>

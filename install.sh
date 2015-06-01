@@ -1,6 +1,6 @@
 #!/bash/sh
 PLUGINS_DIR=~/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins
-
+PLUGINS_DIR=~/Library/Containers/com.bohemiancoding.sketch3.beta/Data/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins
 ## Sketch 插件的 Github 仓库列表
 PLUGINS=(
   "nathco/Clear-Styles,清除样式"
@@ -10,7 +10,6 @@ PLUGINS=(
   "tadija/AEFlowchart,流程图"
   "utom/sketch-measure,快速标注"
   "PEZ/SketchDistributor,排列元素"
-  "afc163/easyshare.sketchplugin,快速分享画板"
 )
 
 echo "===================================================="
