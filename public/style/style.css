@@ -2,12 +2,11 @@ html {
   font-family:'Helvetica Neue',Helvetica, Aria;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  background: #fff;
+  background: #091E34;
   color: #4C4C4C;
   overflow:hidden;
 }
 body {
-  margin: 0;
   width: 100%;
 
 }
@@ -44,29 +43,44 @@ p{
   font-size: 14px;
  }
 .main{
-  width:720px;
-  margin: 0 auto;
+  vertical-align: middle;
+  text-align: center;
  }
 .header{
   text-align: center;
+  width: 100%;
+  position: relative;
+  margin: 0 auto;
+  max-width: 720px;
+  padding-top: 180px;
+}
+.header_logo img{
+  width: 174px;
+}
+.title{
   padding-top: 30px;
 }
-.header a{
+.title a{
   color: #70C19A;
 }
-.header a:hover{
-  color: #64AB89;
+.title a:hover{
+  color: #F8E71C;
 }
 .header h2{
-  font-size: 50px;
-  padding-top: 50px;
+  font-size: 36px;
   margin: 0;
-  color: #4C4C4C;
-  font-family: 'Indie Flower', cursive;
+  color: #63759A;
+  font-family: 'Rajdhani', sans-serif;
+}
+.header a{
+  color: #fff;
 }
 .header p{
   font-size: 14px;
-  color: #AAAAAA;
+  color: #5B6E97;
+}
+.start{
+  padding-top: 40px;
 }
 .plugin{
   text-align: center;
@@ -75,7 +89,45 @@ p{
 
 .footer{
   margin: 0 auto;
-  padding-top:40px;
+  text-align: center;
+  display:inline-block;
+  position: absolute;
+  bottom:40px;
+  left: 50%;
+  margin-left:-18px; 
+
+
+}
+.start a{
+   color: #BCCCEC;
+}
+.btn{
+  border-radius: 40px;
+  border:0;
+  width: 120px;
+  padding: 15px 30px;
+  font-size: 14px;
+  color: #7F9AD2;
+  background-color: #202B42;
+  outline: none;
+}
+.btn:hover{
+  background-color: #202A40;
+  width: 120px;
+  color:#BCCCEC;
+}
+
+
+.footer a {
+  color: #fff;
+  font-size: 20px;
+  padding-right: 5px;
+
+}
+.footer a:hover{
+  color: #F8E71C;
+  font-size: 20px;
+
 }
 .footer p{
   position: absolute;
@@ -98,4 +150,25 @@ p{
   background-color: #F7F7F7;
   border-radius: 5px;
   padding: 20px;
+}
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
 }

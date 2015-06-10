@@ -6,23 +6,38 @@
 	<meta name="author" content="afc163,caicai">
 	<link rel="stylesheet" type="text/css" href="public/style/animate.css">
 	<link rel="stylesheet" type="text/css" href="public/style/style.css">
-	<link href='http://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
+	<script src="public/js/jquery-1.11.3.min.js"></script>
+	<script src="public/js/typed.js"></script>
+	<link href='http://fonts.googleapis.com/css?family=Rajdhani:400,500,600' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<script>
+    $(function(){
+        $(".title a").typed({
+            strings: ["pluss","plugixsx", "pluginxx","plugins","终于打对了","plugins"],
+            typeSpeed: 0
+        });
+    });
+	</script>
+</head>
 <body>
 	<div class="main">
 		<div class="header animated fadeInDown">
-			<h2>Get Sketch Plugins</h2>
-			<p>为了方便设计师，我们写了安装常用插件的脚本，不定时更新~ <a href="https://github.com/afc163/sketch-awesome-plugins">Github仓库</a></p>
+			<div class="header_logo">
+			<img src="http://bohemiancoding.com/static/images/home/app-icon@2x.png"></img>
+			</div>
+			<div class="title">
+				<h2>One script get sketch <a  href="https://github.com/afc163/sketch-awesome-plugins">plugins</a></h2>
+			</div>
+			<div class="start">
+				<a href="https://github.com/afc163/sketch-awesome-plugins" class="btn animated fadeIn">Get Started</a> 
+			</div>
 		</div>	
-		<div class="footer ">
-			<p class="animated fadeIn"> 
-				curl -L https://raw.githubusercontent.com/afc163/sketch-awesome-plugins/master/install.sh | sh
-				<br>
-				<br>
-				<a href="https://github.com/afc163/sketch-awesome-plugins" style="color:#AAAAAA;">常用插件包括: Clear styles|Swap-Fill-Border| Sketch-page-switch|Sketch-measure|<br>Sketch-guides|SketchDistributor|Artboard-Tools|Modulizer</a>
-			</p>
-			<img class="animated fadeInUp"src="public/img/p1.svg"></img>	
-			
+		<div class="footer">
+			<div class="watch">
+			<a href="http://weibo.com/1904821937" class="fa fa-weibo"></a>
+			<a href="https://github.com/afc163/sketch-awesome-plugins" class="fa fa-github"></a>
+			</div>
 		</div>
-<body>
-<head>
+
+</body>
 </html>
